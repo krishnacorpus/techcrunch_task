@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/techcrunch_task/static/css/main.293214ee.chunk.css",
+    "main.js": "/techcrunch_task/static/js/main.366c29c8.chunk.js",
+    "main.js.map": "/techcrunch_task/static/js/main.366c29c8.chunk.js.map",
+    "runtime-main.js": "/techcrunch_task/static/js/runtime-main.5fb72a75.js",
+    "runtime-main.js.map": "/techcrunch_task/static/js/runtime-main.5fb72a75.js.map",
+    "static/js/2.d4c75dbc.chunk.js": "/techcrunch_task/static/js/2.d4c75dbc.chunk.js",
+    "static/js/2.d4c75dbc.chunk.js.map": "/techcrunch_task/static/js/2.d4c75dbc.chunk.js.map",
+    "index.html": "/techcrunch_task/index.html",
+    "precache-manifest.08d930fe58fa2c77cfe66d5428df0a86.js": "/techcrunch_task/precache-manifest.08d930fe58fa2c77cfe66d5428df0a86.js",
+    "service-worker.js": "/techcrunch_task/service-worker.js",
+    "static/css/main.293214ee.chunk.css.map": "/techcrunch_task/static/css/main.293214ee.chunk.css.map",
+    "static/js/2.d4c75dbc.chunk.js.LICENSE.txt": "/techcrunch_task/static/js/2.d4c75dbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fb72a75.js",
+    "static/js/2.d4c75dbc.chunk.js",
+    "static/css/main.293214ee.chunk.css",
+    "static/js/main.366c29c8.chunk.js"
+  ]
+}
