@@ -1,0 +1,37 @@
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+input{
+    padding: 12px;
+    width: 80%;
+    font-size: 20px;
+}
+
+.container{
+    margin: auto;
+    max-width: 800px;
+   
+}
+
+
+li{
+    list-style:none;
+    text-align: left;
+    border-bottom: 4px solid rgb(230, 233, 83);
+    padding-bottom: 7px;
+    border-radius: 6px;
+    padding-left: 10px;
+    /* box-shadow: 1px 0px 22px 1px rgb(154, 184, 218); */
+
+}
+
+li:hover{
+    color: black;
+    background-color: blanchedalmond;
+    cursor: pointer;
+}

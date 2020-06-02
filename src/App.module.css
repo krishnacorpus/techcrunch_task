@@ -1,0 +1,35 @@
+.App {
+  text-align: left;
+  max-width: 800px;
+  margin: auto;
+  color: aliceblue;
+  padding: 40px 20px;
+  height: 100vh;
+}
+
+
+
+
+form input{
+  display: inline;
+
+  background-color: cornsilk;
+  width: 100px;
+}
+
+ /* form input [type='checkbox']{
+  display: inline;
+  padding: 2px;
+} */
+.item{
+  padding-bottom: 32px;
+}
+
+.container{
+  display: none;
+  /* visibility: hidden; */
+}
+.show{
+  display: block;
+  /* visibility: visible; */
+}
